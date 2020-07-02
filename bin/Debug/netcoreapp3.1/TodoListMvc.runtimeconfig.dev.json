@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/togatherculture/.dotnet/store/|arch|/|tfm|",
+      "/Users/togatherculture/.nuget/packages"
+    ]
+  }
+}
